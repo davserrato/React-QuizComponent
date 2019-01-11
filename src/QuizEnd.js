@@ -1,6 +1,10 @@
 import React, {Component} from 'react'
 
 class QuizEnd extends Component {
+    showNextQuestion() {
+
+    }
+    
     render() {
         return(
             <div>
